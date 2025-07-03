@@ -3,3 +3,9 @@
 body{
     background: white;
 }
+
+#bottomSuit{
+
+transform: rotate(180deg);
+
+}
